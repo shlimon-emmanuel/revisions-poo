@@ -1,0 +1,9 @@
+{
+    "name": "plateforme/job-15",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {}
+}
